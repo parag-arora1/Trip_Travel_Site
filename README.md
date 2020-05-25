@@ -1,9 +1,5 @@
 # Trip Travel Site
 
-Languages Used:
-HTML
-CSS
-JavaScript
+Languages Used: HTML, CSS, JavaScript
 
-Frameworks Used:
-jQuery
+Frameworks Used: jQuery
